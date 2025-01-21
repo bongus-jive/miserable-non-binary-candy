@@ -1,10 +1,11 @@
 {
-  "version" : "1.0",
-  "tags" : "NPCs and Creatures",
   "author" : "patman",
-  "description" : "adds \"Miserable. Non-binary candy is all we deserve.\" to Glitch converse dialog\nthat's it\n\ni made this like 3 months ago then forgot about it\n\n\nhttps://discord.gg/GdsQSgV",
-  "name" : "pat_miserablenbcandy",
+  "description" : "adds \"Miserable. Non-binary candy is all we deserve.\" to Glitch converse dialog",
   "friendlyName" : "miserable, non-binary candy",
+  "link" : "steam://url/CommunityFilePage/3024865546",
+  "name" : "pat_miserablenbcandy",
   "steamContentId" : "3024865546",
-  "link" : "steam://url/CommunityFilePage/3024865546"
+  "steamDescription" : "adds \"Miserable. Non-binary candy is all we deserve.\" to Glitch converse dialog\nthat's it\n\ni made this like 3 months ago then forgot about it\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/miserable-non-binary-candy",
+  "tags" : "NPCs and Creatures",
+  "version" : "1.0.1"
 }
